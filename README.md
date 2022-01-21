@@ -17,8 +17,8 @@ Meu nome é Marcela, tenho 25 anos e moro no Rio de Janeiro.
 
 <div align="center">
   <a href="https://github.com/marcelaleoni">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelaleoni&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelaleoni&layout=compact&langs_count=7&theme=panda"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcelaleoni&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelaleoni&layout=compact&langs_count=7&theme=panda"/>
 </div>
 
 <div style="display: inline_block"><br>
